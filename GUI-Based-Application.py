@@ -77,7 +77,7 @@ class AttendanceLogApp(QWidget):
         
         # Copyright label
         copyright_label = QLabel(self)
-        copyright_label.setText("© 2024 Qudrat Ullah(017-BSCS-21). All rights reserved.")
+        copyright_label.setText("© 2024 Amir Abbas(002-BSCS-21). All rights reserved.")
         copyright_label.setGeometry(30, 405, 350, 20)
 
         # Style for the copyright label
